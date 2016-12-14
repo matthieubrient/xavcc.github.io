@@ -8,7 +8,7 @@
 # Site settings
 title: Xavier Codic
 email: xaviercoadic@gmail.com
-description: TExplorer des champs, Faire des cultures {Simplexité parfois}
+description: Explorer des champs, Faire des cultures {Simplexité parfois}
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xavcc.github.io" # the base hostname & protocol for your site
 twitter_username: XavierCoadic
