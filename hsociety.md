@@ -3,6 +3,6 @@ layout: page
 title: H society
 permalink: /hsociety/
 
-tagline: "Loved it ? Hack Gravity"
+tagline: "Loved it ? Hack it !"
 ---
 
