@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+title: Xavier Codic
+email: xaviercoadic@gmail.com
+description: TExplorer des champs, Faire des cultures {Simplexité parfois}
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "http://xavcc.github.io" # the base hostname & protocol for your site
+twitter_username: XavierCoadic
+github_username:  XavCC
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
