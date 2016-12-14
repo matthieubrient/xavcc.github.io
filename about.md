@@ -7,6 +7,8 @@ published: true
 
 > "He Who Does Is Legit" Michel Lallement
 
+![](https://framapic.org/45lqGOz7kY9k/kqgBBfAYZkiq.jpg)
+
 ## Petits brins antiparallèles
 
 ```
