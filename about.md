@@ -1,9 +1,11 @@
 ---
 layout: page
-title: 'Xavier Coadic'
+title: 'Suis-Je ?'
 permalink: /about/
 published: true
 ---
+
+> "He Who Does Is Legit" Michel Lallement
 
 ## Petits brins antiparallèles
 
@@ -13,9 +15,9 @@ Open source Software - Open source Hardware
 Open source Bioware - Open Knowledge
 ```
 
-* Founder [@Le_biome](https://twitter.com/Le_biome), _Biomimicry HackLab_ 
+* Founder [@Le_biome](https://twitter.com/Le_biome), Biomimicry HackLab 
 
-* BioHacktivist Commoner [@OpenBioFabrics](https://www.facebook.com/openbiofabrics), _The innovation in #fashion will be by #bacteria: Biotextile SCOBY & the community ._
+* BioHacktivist Commoner [@OpenBioFabrics](https://www.facebook.com/openbiofabrics), The innovation in #fashion will be by #bacteria: Biotextile SCOBY & the community .
 
 * Intervenant en écoles supérieures et universités, conférencier, explorateur. Je résouds parfois les problèmes des organisations et des entreprises, si et seulement si vous le vpoulez vraiment.
 
@@ -27,7 +29,7 @@ Open source Bioware - Open Knowledge
 
 [Large Human Collider](https://largehumancollider.github.io/) Maker
 
-_Natural born explorer_ autour des pratiques collaboratives et des humanités.
+> Natural born explorer autour des pratiques collaboratives et des humanités.
 
 Hacktivist, multi entrepreneur et startupper, consultant en innovation de l’économie circulaire.
 Autodidacte des internets et du numérique, Open source jardinier & Open knowledge cultivateur.
