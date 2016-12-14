@@ -18,3 +18,8 @@ paginate: 5
 gems: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
+
+# Typography
+# To use, publish a kit and enter the ID here. If you do not wish to use Typekit,
+# leave this ID blank
+typekit_kit_id: kwf5dox
