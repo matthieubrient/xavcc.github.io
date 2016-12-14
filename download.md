@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Download
-permalink: /download/
+title: H society
+permalink: /hsociety/
 
 tagline: "Loved it? Download Gravity"
 ---
