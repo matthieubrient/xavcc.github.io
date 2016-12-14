@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Science & tech
+title: Tech & Sci.
 permalink: /scienceandtech/
 tagline: "Humanity is overrated."
 category: "science"
