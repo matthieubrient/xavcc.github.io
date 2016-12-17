@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " "
+title:  "Bios Camps 2017, l'appel"
 date:   2016-12-14 
 categories: ["biomimicry", "open source", "entreprendre"]
 ---
