@@ -60,9 +60,24 @@ Biomimétisme, Bio design, Bio inspiration, Bio remédiation.. a vous de jouer
 <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
 <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/forms/?utm_campaign=iYS0U1&amp;utm_source=typeform.com-1384274-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-onlineform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a></div>
 
-## 
+## Pour vous rassurer
 
-Comme les relations deonfainces naissent quelque part entre l'éxigence envers soi-même et le partage sans 
- 
+Comme les relations de confiances naissent, semble t-il, quelque part entre l'éxigence envers soi-même et le partage volontaire de ressources, comme la bienveillance ne doit pas être une excuse pour fabriquer sournoisement le consentement, voici quelques réalisations dèjà co-produites pour ma part :
 
+* [Réseau des labs de biomimétisme](https://hackpad.com/Rseau-des-labs-de-biomimtisme-ypKLOzQw6Lu) (ouvert, décentralisé) amorcé à l'occasion d'une rencontre à La Paillasse Paris le 05/02.
  
+* [Openn Source Circular Economy Days 2015 Rennes + 30 cities](https://oscedays.org/rennes-2015/)
+ 
+* [Tour de Bretagne des lieux d'innovation ouverte et des communautés collaboratives](https://hackpad.com/BretagneLabTour-Tour-de-Bretagne-des-lieux-dinnovation-ouverte-et-des-communauts-collaboratives-CJCut6qvqG0)
+ 
+* [OSCE days Rennes 2016 with 70 cities](https://hackpad.com/OSCE-days-Rennes-2016-YcmnYcsPgPe)
+ 
+* [Summer Camp 2016 Kerbors - Movilab.org]( http://movilab.org/index.php?title=Summer_Camp_2016_Kerbors)
+ 
+* [Concevoir et presque non-organiser un summer camp…](https://medium.com/we-are-biomers/concevoir-et-presque-non-organiser-un-summer-camp-79ae19947e08#.jgwphvydz)
+ 
+* [Biomimicry Education Summit 2015 Austin](https://lebiome.github.io/#LeBiome/network/blob/master/austin_2015.md)
+
+* [We Are Biomers Manifesto](https://lebiome.github.io/#LeBiome/manifesto/blob/master/manifeste.md)
+
+ Dans l'attente de vous lire puis de vous rencontrer, je vous tiens en estime d'avoir porté attention à une démarche dont l'éthique et la sincérité ne pourront plaire à tout le monde.
