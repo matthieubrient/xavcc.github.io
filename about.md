@@ -33,7 +33,7 @@ Open source Bioware - Open Knowledge
 
 > Natural born explorer autour des pratiques collaboratives et des humanités.
 
-Hacktivist, multi entrepreneur et start-up, consultant pu stratégiste parfois mais toujours passeur et formateur.
+Hacktivist, multi entrepreneur et start-up, consultant ou stratégiste parfois mais toujours passeur et formateur.
 Autodidacte des internets et du numérique, Open source jardinier & Open knowledge cultivateur.
 
 Ex-abnégateur en tenue d'urgence sur 10 ans de vie, encore au service des populations et de l’environnement mais dans une autre approche toujours humaniste. 
