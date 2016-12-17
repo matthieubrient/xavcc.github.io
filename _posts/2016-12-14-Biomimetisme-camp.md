@@ -2,7 +2,7 @@
 layout: post
 title:  "Bios Camps 2017, l'appel"
 date:   2016-12-14 
-categories: ["biomimicry", "open source", "entreprendre"]
+categories: ["biomimicry"]
 ---
 
 Il y a t-il une raison particulière au biomimétisme d'être une tour d'ivoire ? 
@@ -23,11 +23,11 @@ Plus récemment, à partir de 1998, veinnent les trois principes de base de biom
 
 ## Un biomimétisme Open Source ?
 
-Ce serait abscons comme fonctionnement pour un "mouvement" de la révolution verte par la connaissance visant la réconciliation  avec la biosphère que de copier les systèmes non pair à pair et breveté.
+Ce serait abscons comme fonctionnement pour un "mouvement" de la révolution verte par la connaissance visant la réconciliation  avec la biosphère que de copier les systèmes non pair à pair et brevetés.
 
-Si dans le biomitétisme en France, et plus largement en Europe, la question de l'éthique n'est que trop peu souvent traitée avec profondeur, il n'en demeuure pas moins des initiatives, naissantes et foisonnantes, diffuses mais souvent peu interconnectées.
+Si dans le biomitétisme en France, et plus largement en Europe, la question de l'éthique n'est que trop peu souvent traitée avec profondeur, il n'en demeure pas moins des initiatives, naissantes et foisonnantes, diffuses mais souvent peu interconnectées.
 
-Si le constat que cette même pratique du biomimétisme n'a (pas encore) vu des équivalents à [Meredith Patterson](https://en.wikipedia.org/wiki/Meredith_L._Patterson), à [Aaron Swartz](https://fr.wikipedia.org/wiki/Aaron_Swartz), au [Critical Ingineering Manifesto](https://criticalengineering.org/fr), [Open Source Ecology](http://opensourceecology.org/), et d'autres, ce n'est pas encore une fatalité car nous avons l'opportunité de ne pas laisser le biomimétisme s'auto-intoxiquer. Nous pourrions travailler à efficience post-consumériste à lescture d'une " [systemic toxicity of commercial propaganda](http://maxlath.eu/articles/paper-ethical-marketing/)" et nous pourrions créer les conditions d'un paradigme nouveau cohérent avec le biomimétisme.
+Si le constat que cette même pratique du biomimétisme n'a (pas encore) vu des équivalents à [Meredith Patterson](https://en.wikipedia.org/wiki/Meredith_L._Patterson), à [Aaron Swartz](https://fr.wikipedia.org/wiki/Aaron_Swartz), au [Critical Ingineering Manifesto](https://criticalengineering.org/fr), [Open Source Ecology](http://opensourceecology.org/), et d'autres, ce n'est pas encore une fatalité car nous avons l'opportunité de ne pas laisser le biomimétisme s'auto-intoxiquer. Nous pourrions travailler à un efficience post-consumériste à lescture d'une " [systemic toxicity of commercial propaganda](http://maxlath.eu/articles/paper-ethical-marketing/)" et nous pourrions créer les conditions d'un paradigme nouveau cohérent avec le biomimétisme.
 
 # Appel à manifestation d'intrêts
 
@@ -35,17 +35,18 @@ Si le constat que cette même pratique du biomimétisme n'a (pas encore) vu des 
 
 L'open source à gagné (["Open Source Won,So, Now What".Wired](https://www.wired.com/2016/08/open-source-won-now/)) mais n'est pas encore une sève du biométisme. Voilà un risque majeur porté sur l'innovation inspirée du Vivant qui lui ne pose aucun brevet sur ces ingénieries.
 
-Ainsi, sans étaler ici de grandes théories sur la nocivité des silos et toxicité des systèmes propriètaires, sans faire laïus sur les avantages et les bienfaits de l'open source, je vous invite à un appel ouvert à co-organisation et co-gouvernance d'un biomimétisme en septembre 2017 sur 4 jours. Faisons ensemble !
+Ainsi, sans étaler ici de grandes théories sur la nocivité des silos et toxicité des systèmes propriètaires, sans faire laïus sur les avantages et les bienfaits de l'open source, je vous invite à un appel ouvert à co-organisation et co-gouvernance d'un moment fot du biomimétisme en septembre 2017 sur 4 jours. Faisons ensemble !
 
 **Bios Camp 2017**
 
-Biomimétisme, Bio design, Bio inspiration, Bio remédiation.. a vous de jouer
+Biomimétisme, Bio design, Bio inspiration, Bio remédiation.. 
+En France et en Europe, à vous de jouer
 
  1. Pour s'engager comme co-organisateur il faut POUVOIR présenter une preuve d'open source et/ou Open Knowledge dans ses pratiques. En étude ou en retraite, salariée ou enrtepreneure, chercheur ou autodidacte, individu ou organisation, c'est ouvert à tous mais on ne s'y investit pas n'importe comment.
  
  2. La prémière étape est l'appel à co-oragnisateurs jusqu'au 15 janvier 2017, individu ou organisations.
  
- 3. Les co-organisateurs seront un collège d'"architectes" de l'évènement visant co-ddesign avec les participants.
+ 3. Les co-organisateurs seront un collège d'"architectes" de l'évènement visant co-ddesign avec les participants : SAVOIR et transmission
  
  4. VOULOIR : Discussion par consensus ouvert et documenté sous licence du collège pour les choix organisationels (gouvernance, lieu,Topic et focus, distribution...).
  
@@ -81,3 +82,5 @@ Comme les relations de confiances naissent, semble t-il, quelque part entre l'é
 * [We Are Biomers Manifesto](https://lebiome.github.io/#LeBiome/manifesto/blob/master/manifeste.md)
 
  Dans l'attente de vous lire puis de vous rencontrer, je vous tiens en estime d'avoir porté attention à une démarche dont l'éthique et la sincérité ne pourront plaire à tout le monde.
+ 
+ _MERCI_
