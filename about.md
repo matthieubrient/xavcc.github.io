@@ -19,7 +19,7 @@ Open source Bioware - Open Knowledge
 
 * Founder [@Le_biome](https://twitter.com/Le_biome), Biomimicry HackLab 
 
-* BioHacktivist Commoner [@OpenBioFabrics](https://www.facebook.com/openbiofabrics), The innovation in #fashion will be by #bacteria: Biotextile SCOBY & the community .
+* BioHacktivist Commoner [@OpenBioFabrics](https://www.facebook.com/openbiofabrics), The innovation in fashion will be by bacteria: Biotextile SCOBY & the community .
 
 * Intervenant en écoles supérieures et universités, conférencier, explorateur. Je résouds parfois les problèmes des organisations et des entreprises, si et seulement si vous le voulez vraiment.
 
@@ -33,7 +33,7 @@ Open source Bioware - Open Knowledge
 
 > Natural born explorer autour des pratiques collaboratives et des humanités.
 
-Hacktivist, multi entrepreneur et start-up, consultant pu stratégiste parfois maus toujours passeur et formateur.
+Hacktivist, multi entrepreneur et start-up, consultant pu stratégiste parfois mais toujours passeur et formateur.
 Autodidacte des internets et du numérique, Open source jardinier & Open knowledge cultivateur.
 
 Ex-abnégateur en tenue d'urgence sur 10 ans de vie, encore au service des populations et de l’environnement mais dans une autre approche toujours humaniste. 
