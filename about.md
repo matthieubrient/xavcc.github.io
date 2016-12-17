@@ -7,13 +7,13 @@ published: true
 
 > "He Who Does Is Legit" Michel Lallement
 
-![](https://pbs.twimg.com/profile_images/769693018878345217/k3RSUulz_400x400.jpg)
+![](https://framapic.org/di6gDckVSBes/ShkxHGZxabZ1.jpg)
 
 ## Petits brins antiparallèles
 
 ```
 Open source Software - Open source Hardware 
-                                                             - BIOMIMICRY -
+               - BIOMIMICRY -
 Open source Bioware - Open Knowledge
 ```
 
@@ -21,7 +21,7 @@ Open source Bioware - Open Knowledge
 
 * BioHacktivist Commoner [@OpenBioFabrics](https://www.facebook.com/openbiofabrics), The innovation in #fashion will be by #bacteria: Biotextile SCOBY & the community .
 
-* Intervenant en écoles supérieures et universités, conférencier, explorateur. Je résouds parfois les problèmes des organisations et des entreprises, si et seulement si vous le vpoulez vraiment.
+* Intervenant en écoles supérieures et universités, conférencier, explorateur. Je résouds parfois les problèmes des organisations et des entreprises, si et seulement si vous le voulez vraiment.
 
 * Contributeur [Multibao](http://www.multibao.org), Le carnet de bord des organisations novatrices sur les explorations collaboratives
 
@@ -33,7 +33,7 @@ Open source Bioware - Open Knowledge
 
 > Natural born explorer autour des pratiques collaboratives et des humanités.
 
-Hacktivist, multi entrepreneur et startupper, consultant en innovation de l’économie circulaire.
+Hacktivist, multi entrepreneur et start-up, consultant pu stratégiste parfois maus toujours passeur et formateur.
 Autodidacte des internets et du numérique, Open source jardinier & Open knowledge cultivateur.
 
 Ex-abnégateur en tenue d'urgence sur 10 ans de vie, encore au service des populations et de l’environnement mais dans une autre approche toujours humaniste. 
