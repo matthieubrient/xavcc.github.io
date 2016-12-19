@@ -44,27 +44,34 @@ Aisni ce sont deux projets menés à bon port :
 
 * [LabOSE](https://hackpad.com/LabOSe-Laboratoire-open-source-dexpriences-libres-et-distribues-SA2B7bDZcbV), une iniative personnelle devenu un oeuvre collective, sur plus de 120 jours au printemps 2016. Les notes sont également sous lience creative commons.
 
-Les deux projets en auto-financement. 
+Les deux projets étaient en "auto-financement". 
 
 Pour le premier tour des acteurs régionaux comme l'entreprise Ouest France, L'association Bretagne Dévellopement Innovation, l'école Bretagne Télecom n'avaient pas jugé digne d'intérets cette démarhce multi-acteurs et pluri-auteurs. La fondation de l'université Rennes 1 n'ayant par ailleurs jamais donné suite à ces engagements pris lorsqu'elle remettait le prix Crisalide Eco-activité à Rennes en mai 2015 au Biome, le biomimétisme HackLab. 
 Je me rappelle assez bien l'étincelle qui avait enflammée l'idée de ce tour de Bretagne "Le manque de collaboration entre les acteurs des innovations et émergentes, l'absence de soutien des acteurs majeurs."
 
 La seconde initiative est plus empathique. Née dans un double constat, la première étape provient de nombreuses demandes d'aides reçues en ce début d'année 2016 lors de rencontres un peu partout en France ou par correspondance écrite. Ces besoins exprimés par des porteurs de projets et acteurs du changement font suite au Bretagne Lab Tour que nous avons réalisé collaborativement de façon distribuée et décentralisée en 2015 lors du Temps des communs.
 La seconde marche de la réflexion émerge d'une lecture d'un manque sur les documentations ouvertes, les tutoriels ou les information disponobles en ligne. Ce maqnue a été exprimé intrinsèquement par les demandes évoquées dans la première étape : pour transmettre de l'expérience nécessaire à la construction de la connaissance et le passage de savoir-faire il faut du présentiel et des rapports humains. Les informations et savoirs circulent de plus en vite et n'ont jamais été autant disponible dans notre histoire hamine par l'effet du numérique mais leur appropriation et leur réutilsation restent sur des temporalités plus lentes. Il faut également acquérir de nouveaux savoir-faire en pair à pair pour faire un usage utile de la masse totale disponible.
+Une [campagne de dons en ligne](https://www.lepotcommun.fr/pot/lxxnnc7x) a permis de faire ce tour de France.
 
 
 ## Pour quels rendus ?
 
 Sur la période de 2014 - 2016, 5 mois temps plein investit dans cette démarche de recherche/action atypique via deux trous assez différents mais cohérents. Soit près de 20,8% de temps dédié. Une douzaine d'ateliers ponctuels, d'un jour ou plus, de collaboration trans-entités, soit 1 tous les 2 mois en moyenne.
 
-..... Blablbabalbabklbabkabl
+Plus de 200 personnes impliquées, près de 20 organisations différentes à travers le France engagées, une douzaine de projets pollinisés... et beaucoup de retour et d'expéreinces à transmettre aujourd'hui
 
 Ainsi deux gtibook, ou livres numériques open source, verront le jour en 2017.... Blblblalabajbaabdlabhbveaob
 
-Le Bretagne lab Tour contiendra la documentations des étapes, des lieux, les entretiens avec les personnes, les ateliers et prototypages. Les carnets de rencontres évidemment mais aussi les inédits carnets de pensées et un chapitre "Concevoir et réaliser un tour collaboratif régional".
+Le Bretagne lab Tour contiendra la documentations des étapes, des lieux, les entretiens écrits ou audios avec les personnes, les ateliers projets et prototypages techonologiques. Les carnets de rencontres évidemment mais aussi les inédits carnets de pensées et un chapitre "Concevoir et réaliser un tour collaboratif régional".
 Les auteurs ? Toutes les personnes qui ont participé à la documentation de ce tour et elles sont nombreuses, sous licence creative commons BY SA.
 
 ![](https://github.com/XavCC/xavcc.github.io/blob/master/images/blt-medium.jpg)
+<script src="https://liberapay.com/xavier/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 
 
 ![](https://github.com/XavCC/xavcc.github.io/blob/master/images/labose-couv-medium.jpg)
+
+<script src="https://liberapay.com/xavier/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
