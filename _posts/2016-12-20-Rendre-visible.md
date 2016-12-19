@@ -84,6 +84,9 @@ Je laisse libre à chacun la possibilité de soutenir financièrement ce travail
 La qulité du travail et sa rpidité d'exécution est lié aux ressources alouées (temps, humaines et financières)
 Ces livres contiennent les récits pour nommer et les traces pour comprendre des communautés collaboratives que font les transution de sociétés, les térritoire intelligents, les innovations de tout genre.
 
-## 
+## UN travail de mise à disponibilité intelligible du émergences
 
-> « Ce que l'on ne peut nommer on ne peut le comprendre. Le langage est aussi le lieu de la conquête de la liberté. »
+> « Ce que l'on ne peut nommer on ne peut le comprendre. Le langage est aussi le lieu de la conquête de la liberté. » [Sohan Kalim]
+(http://sohankalim.fr/)
+
+....blablablablab...
