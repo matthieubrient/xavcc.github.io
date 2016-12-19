@@ -60,18 +60,30 @@ Sur la période de 2014 - 2016, 5 mois temps plein investit dans cette démarche
 
 Plus de 200 personnes impliquées, près de 20 organisations différentes à travers le France engagées, une douzaine de projets pollinisés... et beaucoup de retour et d'expéreinces à transmettre aujourd'hui
 
-Ainsi deux gtibook, ou livres numériques open source, verront le jour en 2017.... Blblblalabajbaabdlabhbveaob
+Ainsi deux gtibook, ou livres numériques open source, verront le jour en 2017. Fin Janvier pour le premier et fin février pour le second.
 
 Le Bretagne lab Tour contiendra la documentations des étapes, des lieux, les entretiens écrits ou audios avec les personnes, les ateliers projets et prototypages techonologiques. Les carnets de rencontres évidemment mais aussi les inédits carnets de pensées et un chapitre "Concevoir et réaliser un tour collaboratif régional".
-Les auteurs ? Toutes les personnes qui ont participé à la documentation de ce tour et elles sont nombreuses, sous licence creative commons BY SA.
+Les auteurs ? Toutes les personnes qui ont participé à la documentation de ce tour et elles sont nombreuses, sous licence creative commons BY SA 4.0.
 
-![](https://github.com/XavCC/xavcc.github.io/blob/master/images/blt-medium.jpg)
+![Couverture du gitbook Bretagne Lab Tour](https://github.com/XavCC/xavcc.github.io/blob/master/images/blt-medium.jpg)
 <script src="https://liberapay.com/xavier/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
+Pour le second livre, [Carlos Moreno](https://fr.wikipedia.org/wiki/Carlos_Moreno_(scientifique)), qui avait parrainé et soutenu l'iniative, a accepté d'un écrire la préface. 
+ 
+Une couverture plus appropriée à une période sociale difficile en France, 
+ 
+Ce livre sera égalment sous licence creative commons BY SA 4.0, il sera plus dense que le premier et conteindra également des cartes géographiques numériques.
 
-
-![](https://github.com/XavCC/xavcc.github.io/blob/master/images/labose-couv-medium.jpg)
+![Couverture du LabOSE](https://github.com/XavCC/xavcc.github.io/blob/master/images/labose-couv-medium.jpg)
 
 <script src="https://liberapay.com/xavier/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+Je laisse libre à chacun la possibilité de soutenir financièrement ce travail de production d'oeuvres au format numérique.
+La qulité du travail et sa rpidité d'exécution est lié aux ressources alouées (temps, humaines et financières)
+Ces livres contiennent les récits pour nommer et les traces pour comprendre des communautés collaboratives que font les transution de sociétés, les térritoire intelligents, les innovations de tout genre.
+
+## 
+
+> « Ce que l'on ne peut nommer on ne peut le comprendre. Le langage est aussi le lieu de la conquête de la liberté. »
