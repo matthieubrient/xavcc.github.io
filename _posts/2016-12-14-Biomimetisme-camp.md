@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bios Camps 2017, l'appel"
+title:  "Bios Camp 2017, l'appel"
 date:   2016-12-14 
 categories: ["biomimicry"]
 ---
