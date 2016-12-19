@@ -64,7 +64,7 @@ Ainsi deux gtibook, ou livres numériques open source, verront le jour en 2017..
 Le Bretagne lab Tour contiendra la documentations des étapes, des lieux, les entretiens avec les personnes, les ateliers et prototypages. Les carnets de rencontres évidemment mais aussi les inédits carnets de pensées et un chapitre "Concevoir et réaliser un tour collaboratif régional".
 Les auteurs ? Toutes les personnes qui ont participé à la documentation de ce tour et elles sont nombreuses, sous licence creative commons BY SA.
 
-![](https://github.com/XavCC/xavcc.github.io/blob/master/images/blt-medium.jp)
+![](https://github.com/XavCC/xavcc.github.io/blob/master/images/blt-medium.jpg)
 
 
 ![](https://github.com/XavCC/xavcc.github.io/blob/master/images/labose-couv-medium.jpg)
