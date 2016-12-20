@@ -33,7 +33,7 @@ Il fallait alors se plonger dans les émergences à la recherche de l'observatio
 
 ## A la recherche des coeurs de l'innovation 
 
-D'abord en Bretagne, le région où je suis revenu m'installé en 2013 pour y lancer un biomimétisme HackLab, puis plus loin en France dans un second temps. Par la collaboration en pair à pair dans des projets divers et variés j'ai vécu et travaillé avec nombre d'éléments singuliers. Plonger dans des bouillons de transition , d'innovations, d'émergences hors des sentiers battus, dans les zones du dehors de la standardisation. Etre en amont du fossé de compréhension de l'innovation, ce terme tant usé par ceux qui en parlent le mieux mais en font le moins.
+D'abord en Bretagne, le région où je suis revenu m'installer en 2013 pour y lancer un biomimétisme HackLab, puis plus loin en France dans un second temps. Par la collaboration en pair à pair dans des projets divers et variés j'ai vécu et travaillé avec nombre d'éléments singuliers. Plonger dans des bouillons de transition , d'innovations, d'émergences hors des sentiers battus, dans les zones du dehors de la standardisation. Etre en amont du fossé de compréhension de l'innovation, ce terme tant usé par ceux qui en parlent le mieux mais en font le moins.
 
 ![](https://cdn-images-1.medium.com/max/800/1*9SNZU2zMbQvyF0__ENBK9g.jpeg)[technologie life cycle](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
 
@@ -66,7 +66,8 @@ Ainsi deux gtibook, ou livres numériques open source, verront le jour en 2017. 
 Le Bretagne lab Tour contiendra la documentation des étapes, des lieux, les entretiens écrits ou audios avec les personnes, les ateliers projets et prototypages techonologiques. Les carnets de rencontres évidemment mais aussi les inédits carnets de pensées et un chapitre "Concevoir et réaliser un tour collaboratif régional" seront dans les pages de ce livre.
 Les auteurs ? Toutes les personnes qui ont participé à la documentation de ce tour et elles sont nombreuses, sous licence creative commons BY SA 4.0.
 
-![Couverture du gitbook Bretagne Lab Tour](https://github.com/XavCC/xavcc.github.io/blob/master/images/blt-medium.jpg)
+![Couverture du gitbook Bretagne Lab Tour](https://framapic.org/Ou8IB3Ij571q/MbnCGL6pqvOq))
+
 <script src="https://liberapay.com/xavier/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
@@ -76,7 +77,7 @@ Une couverture plus appropriée à une période sociale difficile en France mais
  
 Ce livre sera également sous licence creative commons BY SA 4.0.
 
-![Couverture du LabOSE](https://github.com/XavCC/xavcc.github.io/blob/master/images/labose-couv-medium.jpg)
+![couverture du LabOSE](https://framapic.org/C9BSg9xu5BAG/WYgDtBnoCKA5)
 
 <script src="https://liberapay.com/xavier/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
