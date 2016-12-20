@@ -98,5 +98,5 @@ Ces deux livres numériques ne seront pas tutoriels du "comment faire" ou des "g
 > « Plus les individus portent attention à la publicité, plus ils nient la crise et ses fondements structurels. Par là même, ils retardent et arrivent à éviter la dure rencontre avec les réalités quotidiennes. » Bernard Brochant, dans sa préface au livre de B. Catheat, Publicité et Société, 1987. 
 (voir également [Violences de l’idéologie publicitaire](http://www.monde-diplomatique.fr/1995/08/BRUNE/6552) par François Brune  dans le monde diplomatique 1995.
 
-Pour conserver l'essence humaine profonde commune à ces démarches, deux moments de rencontres seront organisés pour échanger lors de la publication de ces livres. 
-Le premier moment de rencontre se déroulera à Rennes fin janvier 2017 et le second sera une suprise... Mais pour cela il faudra rester attentifs aux évolutions des écritures. 
+Pour conserver la profonde essence humaine commune à ces démarches, deux moments de rencontres seront organisés pour échanger lors de la publication de ces livres. 
+Le premier moment se déroulera à Rennes fin janvier 2017 et le second sera une suprise... Mais pour cela il faudra rester attentifs aux évolutions des écritures. 
