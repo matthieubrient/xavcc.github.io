@@ -4,6 +4,7 @@ title:  "Rendre visible les innovations et les emergences"
 date:   2016-12-20 
 categories: ["hsociety"]
 ---
+
 Qu'est ce qui déclenche l'entreprise ? Où germe le fait d'entreprendre, prendre la résolution de faire quelque chose, une action, un ouvrage, et commencer à le mettre à exécution ?
 
 Parfois entre les lignes d'un texte et la frustration d'un problème non-résolu pour soi-même, le tout dans un contexte favorissant l'action. Pour ma part, le fait de se lancer dans des démarches itinérantes de participation aux innovation émergentes tout en tentant de les comprendre et de les écrires, cela est lié à mon histoire d'amour avec Marseille et les lignes d'[Henry DE LUMLEY](https://fr.wikipedia.org/wiki/Henry_de_Lumley) dans "Le Beau, l'art et l'homme. Emergence du sens de la beauté"
