@@ -13,7 +13,7 @@ Par une nuit très pure, en montagne,dans le désert ou en mer, on voit environ 
 
 > On a déjà l'impression d'un fourmillement extraodinaire, presque un sentiment d'infini.
 Cette beauté du visible a historiquement joué un rôle fondamental parce qu'elle a engendré l'étonnement philosophique.
-Pourquoi le ciel est-il beau et pourquoi est-il organisé comme cela ? La comtempaltion du visible induit donc le questionnement sur ce qu'il y a au delà du visible.
+Pourquoi le ciel est-il beau et pourquoi est-il organisé comme cela ? La comtemplation du visible induit donc le questionnement sur ce qu'il y a au delà du visible.
 Je me souviens très bien de mon adolescence, lorsque je contemplais la nuit étoilée de Ma Provence natale, ce qui agitait mes deux composantes de raison et d'émotions n'était pas les points brillants des étoiles, c'était le velour noir qu'il avait entre elles ; je me demandais "ce soir là, qu'est ce que c'est ? C'est l'espace, qui n'est certainement pas le vide. A t-il une chair, une texture, une forme ?"
 Déjà la vraie beauté me semblait au-delà du visible. Notons qu'aujourd'hui, l'éclairage généralisé nous masque le ciel nocturne et il y a des plus en plus de jeunes qui n'ont jamais vu la Voie lactée parce qu'ils ne sont jamais sortis d'une ville ; c'est une perte ce contact dramatique avec ce que j'appelle "le sentiment cosmique".
 
@@ -25,16 +25,14 @@ Comprendre au delà du visible et se défaire de l'éblouissement artificiel des
 
 Engager un voyage qui ne se satisferait pas uniquement du déplacement physique était mon évidence. Une certitude de prendre la résolution de faire quelque chose, une action, un ouvrage, et commencer à le mettre à exécution.
 
-> Le véritable voyage, ce n'est pas de parcourir le désert ou de franchir de grandes distances sous-marines, c'est de parvenir en un point exceptionnel où la saveur de l'instant baigne tous les contours de la vie intérieure.
+> "Le véritable voyage, ce n'est pas de parcourir le désert ou de franchir de grandes distances sous-marines, c'est de parvenir en un point exceptionnel où la saveur de l'instant baigne tous les contours de la vie intérieure."
 Antoine de St Exupery
 
-Il fallait alors se plonger dans les émergences à la recherche de l'observation des points excepitonnels et de la marche sur les canuax ui relient ces points. Le vivre et le comprendre sur des projets qui n'étaient pas le miens pour les transmettre à qui voudra bien s'en intéresser.
+Il fallait alors se plonger dans les émergences à la recherche de l'observation des points exceptionnels. Marcher dans les canuax qui relient ces points. Le vivre et le comprendre sur des projets qui n'étaient pas le miens pour les transmettre à qui voudra bien s'en intéresser.
 
 ## A la recherche des coeurs de l'innovation 
 
-D'abord en Bretagne, le région où je suis revenu m'installé en 2013 pour y lancer un  biomimétisme HackLab, puis en France dans un second temps. Par la collaboration en pair à pair dans des projets divers et variés j'ai vécu et travaillé avec nombre d'éléments singuliers. Plonger dans des bouillon de transition , d'innovation, d'émergences hors des sentiers battu, dans les zones du dehors de la standardisation.
-
-Bien en amont du fossé de compréhension de l'innovation, ce terme tant usé par ceux qui en parlent le mieux mais en font le moins.
+D'abord en Bretagne, le région où je suis revenu m'installé en 2013 pour y lancer un  biomimétisme HackLab, puis en France dans un second temps. Par la collaboration en pair à pair dans des projets divers et variés j'ai vécu et travaillé avec nombre d'éléments singuliers. Plonger dans des bouillons de transition , d'innovations, d'émergences hors des sentiers battu, dans les zones du dehors de la standardisation. Etre en amont du fossé de compréhension de l'innovation, ce terme tant usé par ceux qui en parlent le mieux mais en font le moins.
 
 ![](https://cdn-images-1.medium.com/max/800/1*9SNZU2zMbQvyF0__ENBK9g.jpeg)[technologie life cycle](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
 
@@ -46,34 +44,34 @@ Aisni ce sont deux projets menés à bon port :
 
 Les deux projets étaient en "auto-financement". 
 
-Pour le premier tour des acteurs régionaux comme l'entreprise Ouest France, L'association Bretagne Dévellopement Innovation, l'école Bretagne Télecom n'avaient pas jugé digne d'intérets cette démarhce multi-acteurs et pluri-auteurs. La fondation de l'université Rennes 1 n'ayant par ailleurs jamais donné suite à ces engagements pris lorsqu'elle remettait le prix Crisalide Eco-activité à Rennes en mai 2015 au Biome, le biomimétisme HackLab. 
+Pour le premier tour, des acteurs régionaux comme l'entreprise Ouest France, L'association Bretagne Dévellopement Innovation, l'école Bretagne Télecom, n'avaient pas jugé digne d'intérets cette démarche multi-acteurs et pluri-auteurs. La fondation de l'université Rennes 1 n'ayant par ailleurs jamais donné suite à ces engagements pris lorsqu'elle remettait le prix Crisalide Eco-activité à Rennes en mai 2015 au Biome, le biomimétisme HackLab. 
 Je me rappelle assez bien l'étincelle qui avait enflammée l'idée de ce tour de Bretagne "Le manque de collaboration entre les acteurs des innovations et émergentes, l'absence de soutien des acteurs majeurs."
 
-La seconde initiative est plus empathique. Née dans un double constat, la première étape provient de nombreuses demandes d'aides reçues en ce début d'année 2016 lors de rencontres un peu partout en France ou par correspondance écrite. Ces besoins exprimés par des porteurs de projets et acteurs du changement font suite au Bretagne Lab Tour que nous avons réalisé collaborativement de façon distribuée et décentralisée en 2015 lors du Temps des communs.
-La seconde marche de la réflexion émerge d'une lecture d'un manque sur les documentations ouvertes, les tutoriels ou les information disponobles en ligne. Ce maqnue a été exprimé intrinsèquement par les demandes évoquées dans la première étape : pour transmettre de l'expérience nécessaire à la construction de la connaissance et le passage de savoir-faire il faut du présentiel et des rapports humains. Les informations et savoirs circulent de plus en vite et n'ont jamais été autant disponible dans notre histoire hamine par l'effet du numérique mais leur appropriation et leur réutilsation restent sur des temporalités plus lentes. Il faut également acquérir de nouveaux savoir-faire en pair à pair pour faire un usage utile de la masse totale disponible.
-Une [campagne de dons en ligne](https://www.lepotcommun.fr/pot/lxxnnc7x) a permis de faire ce tour de France.
+La seconde initiative est plus empathique. Née dans un double constat, la première étape provient de nombreuses demandes d'aides reçues en ce début d'année 2016 lors de rencontres un peu partout en France ou par correspondance écrite. Des appels à "personnes ressources" comme il a été souvent dit ou écrit. 
+La seconde marche de la réflexion émerge d'une lecture d'un manque sur les documentations ouvertes, les tutoriels ou les informations disponibles en ligne. Ce maqnue a été exprimé intrinsèquement par les demandes évoquées dans la première étape : pour transmettre de l'expérience nécessaire à la construction de la connaissance et le passage de savoir-faire, il faut du présentiel et des rapports humains. Les informations et savoirs circulent de plus en plus vite et n'ont jamais été autant disponibles dans notre histoire humaine par l'effet du numérique mais leur appropriation et leur réutilsation restent sur des temporalités plus lentes. Il faut également acquérir de nouveaux savoir-faire en pair à pair pour faire un usage utile de la masse totale disponible.
+
+Une [campagne de dons en ligne](https://www.lepotcommun.fr/pot/lxxnnc7x) a permis de faire ce second périple.
 
 
 ## Pour quels rendus ?
 
-Sur la période de 2014 - 2016, 5 mois temps plein investit dans cette démarche de recherche/action atypique via deux trous assez différents mais cohérents. Soit près de 20,8% de temps dédié. Une douzaine d'ateliers ponctuels, d'un jour ou plus, de collaboration trans-entités, soit 1 tous les 2 mois en moyenne.
-
-Plus de 200 personnes impliquées, près de 20 organisations différentes à travers le France engagées, une douzaine de projets pollinisés... et beaucoup de retour et d'expéreinces à transmettre aujourd'hui
+Sur la période de 2014 - 2016, 5 mois temps plein investis dans cette démarche de recherche/action atypique via deux tours assez différents mais cohérents et complémentaires. Soit près de 21% de temps professionel dédié. Ajoutons à cela une douzaine d'ateliers ponctuels, d'un jour ou plus, de collaboration trans-entités, soit 1 tous les 2 mois en moyenne sur la même période 2014-2015.
+Avec cette démarche nomade, c'est plus de 200 personnes impliquées, près de 20 organisations différentes à travers le France engagées, une douzaine de projets pollinisés... et beaucoup de retour et d'expériences à transmettre aujourd'hui.
 
 Ainsi deux gtibook, ou livres numériques open source, verront le jour en 2017. Fin Janvier pour le premier et fin février pour le second.
 
-Le Bretagne lab Tour contiendra la documentations des étapes, des lieux, les entretiens écrits ou audios avec les personnes, les ateliers projets et prototypages techonologiques. Les carnets de rencontres évidemment mais aussi les inédits carnets de pensées et un chapitre "Concevoir et réaliser un tour collaboratif régional".
+Le Bretagne lab Tour contiendra la documentation des étapes, des lieux, les entretiens écrits ou audios avec les personnes, les ateliers projets et prototypages techonologiques. Les carnets de rencontres évidemment mais aussi les inédits carnets de pensées et un chapitre "Concevoir et réaliser un tour collaboratif régional" seront dans les pages de ce livre.
 Les auteurs ? Toutes les personnes qui ont participé à la documentation de ce tour et elles sont nombreuses, sous licence creative commons BY SA 4.0.
 
 ![Couverture du gitbook Bretagne Lab Tour](https://github.com/XavCC/xavcc.github.io/blob/master/images/blt-medium.jpg)
 <script src="https://liberapay.com/xavier/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-Pour le second livre, [Carlos Moreno](https://fr.wikipedia.org/wiki/Carlos_Moreno_(scientifique)), qui avait parrainé et soutenu l'iniative, a accepté d'un écrire la préface. 
+Pour le second livre, [Carlos Moreno](https://fr.wikipedia.org/wiki/Carlos_Moreno_(scientifique)), qui avait parrainé et soutenu l'iniative, a accepté d'en écrire la préface. 
  
-Une couverture plus appropriée à une période sociale difficile en France, 
+Une couverture plus appropriée à une période sociale difficile en France mais le noir n'est pas la couleur du désespoir. Ce gitbook sera bien différent du premier avec des réflexions personnels parfois philosophiques, des cartes géographiques numériques, des détails photographiques de nomadisme. 
  
-Ce livre sera égalment sous licence creative commons BY SA 4.0, il sera plus dense que le premier et conteindra également des cartes géographiques numériques.
+Ce livre sera également sous licence creative commons BY SA 4.0.
 
 ![Couverture du LabOSE](https://github.com/XavCC/xavcc.github.io/blob/master/images/labose-couv-medium.jpg)
 
@@ -81,12 +79,24 @@ Ce livre sera égalment sous licence creative commons BY SA 4.0, il sera plus de
 <noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 Je laisse libre à chacun la possibilité de soutenir financièrement ce travail de production d'oeuvres au format numérique.
-La qulité du travail et sa rpidité d'exécution est lié aux ressources alouées (temps, humaines et financières)
-Ces livres contiennent les récits pour nommer et les traces pour comprendre des communautés collaboratives que font les transution de sociétés, les térritoire intelligents, les innovations de tout genre.
+La qualité du travail et sa rapidité d'exécution sont liés aux ressources alouées (temps, humaines et financières)
+Ces livres contiennent les récits pour nommer et les traces pour comprendre des communautés collaboratives que font les transitions de sociétés, les térritoires intelligents, les innovations de tout genre, les tentatives de nouveaux paradigmes.
 
-## UN travail de mise à disponibilité intelligible du émergences
+## Un travail de mise à disponibilité intelligible des émergences
 
 > « Ce que l'on ne peut nommer on ne peut le comprendre. Le langage est aussi le lieu de la conquête de la liberté. » [Sohan Kalim]
 (http://sohankalim.fr/)
 
-....blablablablab...
+A qui veut bien se donner la peine de porter une attention digne de l'effort fourni par les personnes qui peuplent les pages de ces deux ouvrages s'ouvre des champs d'étude et de questionnement sur ce qui fait ou ne fait pas un projet innovant, sur ce qui fait une initiative qui sert la résilience ou une tribu apportant de l'intelligence à un territoire.
+
+Le travail de terrain et d'écriture amont n'était pas neutre. Il était un acte politique dans la société, un entreprenariat ayant une modeste incidence, un commencement de mise à éxécution de la reconquête d'une liberté du faire. Le travail de rendu ne sera pas un programme politicien mais simplement une mise en ressource utilisable, embarquable et compréhensible pouvant servir de base de travail à d'autres acteurs, d'inspiration d'études ou simplement de lecture à de futurs décisionnaires.
+
+Il y à travers ces futures pages autant à comprendre des contextes et des recettes que de découvrir des émergences et surtout les personnes qui les portent.
+
+Ces deux livres numériques ne seront pas tutoriels du "comment faire" ou des "guides de l'innovation". Ils ne seront ni un faux manuel scolaire de l'entreprenariat ni une publicité pour en forme d'engagement aliénant sur des projets inspirants qui changeraient le monde. 
+
+> « Plus les individus portent attention à la publicité, plus ils nient la crise et ses fondements structurels. Par là même, ils retardent et arrivent à éviter la dure rencontre avec les réalités quotidiennes. » Bernard Brochant, dans sa préface au livre de B. Catheat, Publicité et Société, 1987. 
+(voir également [Violences de l’idéologie publicitaire](http://www.monde-diplomatique.fr/1995/08/BRUNE/6552) par François Brune  dans le monde diplomatique 1995.
+
+Pour conserver l'essence humaine profonde commune à ces démarches, deux moments de rencontres seront organisés pour échanger lors de la publication de ces livres. 
+Le premier moment de rencontre se déroulera à Rennes fin janvier 2017 et le second sera une suprise... Mais pour cela il faudra rester attentifs aux évolutions des écritures. 
