@@ -6,10 +6,10 @@ categories: ["hsociety"]
 ---
 Qu'est ce qui déclenche l'entreprise ? Où germe le fait d'entreprendre, prendre la résolution de faire quelque chose, une action, un ouvrage, et commencer à le mettre à exécution ?
 
-Parfois entre les lignes d'un texte et la frustration d'un problème non-résolu pour soi-même le tout dans un contexte favorissant l'action. Pour ma part, le fait de se lancer dans des démarches itinérantes de participation aux innovation émergentes tout en tentant de les comprendre et de les écrires, cela est lié à mon histoire d'amour avec Marseille et les lignes d'[Henry DE LUMLEY](https://fr.wikipedia.org/wiki/Henry_de_Lumley) dans "Le Beau, l'art et l'homme. Emergence du sens de la beauté"
+Parfois entre les lignes d'un texte et la frustration d'un problème non-résolu pour soi-même, le tout dans un contexte favorissant l'action. Pour ma part, le fait de se lancer dans des démarches itinérantes de participation aux innovation émergentes tout en tentant de les comprendre et de les écrires, cela est lié à mon histoire d'amour avec Marseille et les lignes d'[Henry DE LUMLEY](https://fr.wikipedia.org/wiki/Henry_de_Lumley) dans "Le Beau, l'art et l'homme. Emergence du sens de la beauté"
 
 > Tout d'abord la beauté du contenu. C'est tout simplement la beauté du visible : "la beauté du monde est tout ce qui appârait dans ses éléments singuliers, comme les étoiles dans le ciel, les oiseaux dans l'air, les poissons dans l'eau, les Hommes sur Terre", écrivait Guillaume de Conches au XIIe siècle.
-Par une nuit très pure, en montagne,dans le désert ou en mer, on voit environ 3000 étoiles à l'oeil nu, ainsi que la ceinture lumineuse de la Voie lactée.
+Par une nuit très pure, en montagne, dans le désert ou en mer, on voit environ 3000 étoiles à l'oeil nu, ainsi que la ceinture lumineuse de la Voie lactée.
 
 > On a déjà l'impression d'un fourmillement extraodinaire, presque un sentiment d'infini.
 Cette beauté du visible a historiquement joué un rôle fondamental parce qu'elle a engendré l'étonnement philosophique.
@@ -28,11 +28,11 @@ Engager un voyage qui ne se satisferait pas uniquement du déplacement physique 
 > "Le véritable voyage, ce n'est pas de parcourir le désert ou de franchir de grandes distances sous-marines, c'est de parvenir en un point exceptionnel où la saveur de l'instant baigne tous les contours de la vie intérieure."
 Antoine de St Exupery
 
-Il fallait alors se plonger dans les émergences à la recherche de l'observation des points exceptionnels. Marcher dans les canuax qui relient ces points. Le vivre et le comprendre sur des projets qui n'étaient pas le miens pour les transmettre à qui voudra bien s'en intéresser.
+Il fallait alors se plonger dans les émergences à la recherche de l'observation des points exceptionnels. Marcher dans les canaux qui relient ces points. Le vivre et le comprendre sur des projets qui n'étaient pas le miens pour les transmettre à qui voudra bien s'en intéresser.
 
 ## A la recherche des coeurs de l'innovation 
 
-D'abord en Bretagne, le région où je suis revenu m'installé en 2013 pour y lancer un  biomimétisme HackLab, puis en France dans un second temps. Par la collaboration en pair à pair dans des projets divers et variés j'ai vécu et travaillé avec nombre d'éléments singuliers. Plonger dans des bouillons de transition , d'innovations, d'émergences hors des sentiers battu, dans les zones du dehors de la standardisation. Etre en amont du fossé de compréhension de l'innovation, ce terme tant usé par ceux qui en parlent le mieux mais en font le moins.
+D'abord en Bretagne, le région où je suis revenu m'installé en 2013 pour y lancer un biomimétisme HackLab, puis plus loin en France dans un second temps. Par la collaboration en pair à pair dans des projets divers et variés j'ai vécu et travaillé avec nombre d'éléments singuliers. Plonger dans des bouillons de transition , d'innovations, d'émergences hors des sentiers battus, dans les zones du dehors de la standardisation. Etre en amont du fossé de compréhension de l'innovation, ce terme tant usé par ceux qui en parlent le mieux mais en font le moins.
 
 ![](https://cdn-images-1.medium.com/max/800/1*9SNZU2zMbQvyF0__ENBK9g.jpeg)[technologie life cycle](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
 
@@ -55,7 +55,7 @@ Une [campagne de dons en ligne](https://www.lepotcommun.fr/pot/lxxnnc7x) a permi
 
 ## Pour quels rendus ?
 
-Des femmes et des hommes à travers leurs ordianires de start-up, tiers-lieux, FabLab, collaborations pair à pair...
+Des femmes et des hommes à travers leurs ordinaires de start-up, tiers-lieux, FabLab, collaborations pair à pair...
 
 Sur la période de 2014 - 2016, 5 mois temps plein investis dans cette démarche de recherche/action atypique via deux tours assez différents mais cohérents et complémentaires. Soit près de 21% de temps professionel dédié. Ajoutons à cela une douzaine d'ateliers ponctuels, d'un jour ou plus, de collaboration trans-entités, soit 1 tous les 2 mois en moyenne sur la même période 2014-2015.
 Avec cette démarche nomade, c'est plus de 200 personnes impliquées, près de 20 organisations différentes à travers le France engagées, une douzaine de projets pollinisés... et beaucoup de retour et d'expériences à transmettre aujourd'hui.
@@ -71,7 +71,7 @@ Les auteurs ? Toutes les personnes qui ont participé à la documentation de ce 
 
 Pour le second livre, [Carlos Moreno](https://fr.wikipedia.org/wiki/Carlos_Moreno_(scientifique)), qui avait parrainé et soutenu l'iniative, a accepté d'en écrire la préface. 
  
-Une couverture plus appropriée à une période sociale difficile en France mais le noir n'est pas la couleur du désespoir. Ce gitbook sera bien différent du premier avec des réflexions personnels parfois philosophiques, des cartes géographiques numériques, des détails photographiques de nomadisme. 
+Une couverture plus appropriée à une période sociale difficile en France mais le noir n'est pas la couleur du désespoir. Ce gitbook sera bien différent du premier avec des réflexions personnelles parfois philosophiques, des cartes géographiques numériques, des détails photographiques de nomadisme. 
  
 Ce livre sera également sous licence creative commons BY SA 4.0.
 
@@ -89,16 +89,16 @@ Ces livres contiennent les récits pour nommer et les traces pour comprendre des
 > « Ce que l'on ne peut nommer on ne peut le comprendre. Le langage est aussi le lieu de la conquête de la liberté. » [Sohan Kalim]
 (http://sohankalim.fr/)
 
-A qui veut bien se donner la peine de porter une attention digne de l'effort fourni par les personnes qui peuplent les pages de ces deux ouvrages s'ouvre des champs d'étude et de questionnement sur ce qui fait ou ne fait pas un projet innovant, sur ce qui fait une initiative qui sert la résilience ou une tribu apportant de l'intelligence à un territoire.
+A qui veut bien se donner la peine, de porter une attention digne de l'effort fourni par les personnes qui peuplent les pages de ces deux ouvrages, s'ouvre des champs d'étude et de questionnement sur ce qui fait ou ne fait pas un projet innovant, sur ce qui fait une initiative qui sert la résilience ou une tribu apportant de l'intelligence à un territoire.
 
-Le travail de terrain et d'écriture amont n'était pas neutre. Il était un acte politique dans la société, un entreprenariat ayant une modeste incidence, un commencement de mise à éxécution de la reconquête d'une liberté du faire. Le travail de rendu ne sera pas un programme politicien mais simplement une mise en ressource utilisable, embarquable et compréhensible pouvant servir de base de travail à d'autres acteurs, d'inspiration d'études ou simplement de lecture à de futurs décisionnaires.
+Le travail de terrain et d'écriture amont n'était pas neutre. Il était un acte politique dans la société, un entreprenariat ayant une modeste incidence, un commencement de mise à éxécution de la reconquête d'une liberté du faire. Le travail de rendu ne sera pas un programme politicien mais simplement une mise en ressource utilisable, embarquable et compréhensible, pouvant servir de base de travail à d'autres acteurs, d'inspiration d'études ou simplement de lecture à de futurs décisionnaires.
 
-Il y à travers ces futures pages autant à comprendre des contextes et des recettes que de découvrir des émergences et surtout les personnes qui les portent.
+Il y a travers ces futures pages autant à comprendre des contextes et des recettes que de découvrir des émergences et surtout les personnes qui les portent.
 
-Ces deux livres numériques ne seront pas tutoriels du "comment faire" ou des "guides de l'innovation". Ils ne seront ni un faux manuel scolaire de l'entreprenariat ni une publicité pour en forme d'engagement aliénant sur des projets inspirants qui changeraient le monde. 
+Ces deux livres numériques ne seront pas tutoriels du "comment faire" ou des "guides de l'innovation". Ils ne seront ni un faux manuel scolaire de l'entreprenariat ni une publicité pour en forme d'engagement aliénant sur des projets inspirants qui changeraient le monde. Ils seront deux objets dont vous aurez la liberté des usages et des confrontations.
 
 > « Plus les individus portent attention à la publicité, plus ils nient la crise et ses fondements structurels. Par là même, ils retardent et arrivent à éviter la dure rencontre avec les réalités quotidiennes. » Bernard Brochant, dans sa préface au livre de B. Catheat, Publicité et Société, 1987. 
 (voir également [Violences de l’idéologie publicitaire](http://www.monde-diplomatique.fr/1995/08/BRUNE/6552) par François Brune  dans le monde diplomatique 1995.
 
 Pour conserver la profonde essence humaine commune à ces démarches, deux moments de rencontres seront organisés pour échanger lors de la publication de ces livres. 
-Le premier moment se déroulera à Rennes fin janvier 2017 et le second sera une suprise... Mais pour cela il faudra rester attentifs aux évolutions des écritures. 
+Le premier moment se déroulera à Rennes fin janvier 2017 et le second sera une suprise... Mais pour vivre cela il vous faudra rester attentifs aux évolutions des écritures. 
