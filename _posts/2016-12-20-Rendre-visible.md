@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rendre visible les innovations et les emergences"
+title:  "Rendre visible les innovations et les émergences"
 date:   2016-12-20 
 categories: ["hsociety"]
 ---
