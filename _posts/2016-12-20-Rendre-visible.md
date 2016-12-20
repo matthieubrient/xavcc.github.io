@@ -55,6 +55,8 @@ Une [campagne de dons en ligne](https://www.lepotcommun.fr/pot/lxxnnc7x) a permi
 
 ## Pour quels rendus ?
 
+Des femmes et des hommes à travers leurs ordianires de start-up, tiers-lieux, FabLab, collaborations pair à pair...
+
 Sur la période de 2014 - 2016, 5 mois temps plein investis dans cette démarche de recherche/action atypique via deux tours assez différents mais cohérents et complémentaires. Soit près de 21% de temps professionel dédié. Ajoutons à cela une douzaine d'ateliers ponctuels, d'un jour ou plus, de collaboration trans-entités, soit 1 tous les 2 mois en moyenne sur la même période 2014-2015.
 Avec cette démarche nomade, c'est plus de 200 personnes impliquées, près de 20 organisations différentes à travers le France engagées, une douzaine de projets pollinisés... et beaucoup de retour et d'expériences à transmettre aujourd'hui.
 
