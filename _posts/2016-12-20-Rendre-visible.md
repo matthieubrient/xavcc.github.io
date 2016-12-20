@@ -71,7 +71,7 @@ Les auteurs ? Toutes les personnes qui ont participé à la documentation de ce 
 <script src="https://liberapay.com/xavier/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-Pour le second livre, [Carlos Moreno](https://fr.wikipedia.org/wiki/Carlos_Moreno_(scientifique)), qui avait parrainé et soutenu l'iniative, a accepté d'en écrire la préface. 
+Pour le second livre, [Carlos Moreno](https://fr.wikipedia.org/wiki/Carlos_Moreno_(scientifique), qui avait parrainé et soutenu l'iniative, a accepté d'en écrire la préface. 
  
 Une couverture plus appropriée à une période sociale difficile en France, mars à juin 2016, mais le noir n'est pas la couleur du désespoir. Ce gitbook sera bien différent du premier avec des réflexions personnelles parfois philosophiques, des cartes géographiques numériques, des détails photographiques de nomadisme. 
  
@@ -83,13 +83,12 @@ Ce livre sera également sous licence creative commons BY SA 4.0.
 <noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 Je laisse libre à chacun la possibilité de soutenir financièrement ce travail de production d'oeuvres au format numérique.
-La qualité du travail et sa rapidité d'exécution sont liés aux ressources alouées (temps, humaines et financières)
+La qualité du travail et sa rapidité d'exécution sont liés aux ressources alouées (temps, humaines et financières).
 Ces livres contiennent les récits pour nommer et les traces pour comprendre des communautés collaboratives qui font les transitions de sociétés, les térritoires intelligents, les innovations de tout genre, les tentatives de nouveaux paradigmes.
 
 ## Un travail de mise à disponibilité intelligible des émergences
 
-> « Ce que l'on ne peut nommer on ne peut le comprendre. Le langage est aussi le lieu de la conquête de la liberté. » [Sohan Kalim]
-(http://sohankalim.fr/)
+> « Ce que l'on ne peut nommer on ne peut le comprendre. Le langage est aussi le lieu de la conquête de la liberté. » [Sohan Kalim](http://sohankalim.fr/)
 
 A qui veut bien se donner la peine, de porter une attention digne de l'effort fourni par les personnes qui peuplent les pages de ces deux ouvrages, s'ouvre des champs d'étude et de questionnement sur ce qui fait ou ne fait pas un projet innovant, sur ce qui fait une initiative qui sert la résilience ou une tribu apportant de l'intelligence à un territoire.
 
