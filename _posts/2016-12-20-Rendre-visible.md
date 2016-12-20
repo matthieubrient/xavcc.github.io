@@ -66,7 +66,7 @@ Ainsi deux gtibook, ou livres numériques open source, verront le jour en 2017. 
 Le Bretagne lab Tour contiendra la documentation des étapes, des lieux, les entretiens écrits ou audios avec les personnes, les ateliers projets et prototypages techonologiques. Les carnets de rencontres évidemment mais aussi les inédits carnets de pensées et un chapitre "Concevoir et réaliser un tour collaboratif régional" seront dans les pages de ce livre.
 Les auteurs ? Toutes les personnes qui ont participé à la documentation de ce tour et elles sont nombreuses, sous licence creative commons BY SA 4.0.
 
-![Couverture du gitbook Bretagne Lab Tour](https://framapic.org/Ou8IB3Ij571q/MbnCGL6pqvOq))
+![Couverture du gitbook Bretagne Lab Tour](https://framapic.org/Ou8IB3Ij571q/MbnCGL6pqvOq)
 
 <script src="https://liberapay.com/xavier/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
