@@ -33,7 +33,7 @@ Si le constat que cette même pratique du biomimétisme n'a (pas encore) vu des 
 
 > Le mot intérêt (du latin _interest_, « il importe ») a plusieurs acceptions : L'intérêt est un sentiment de curiosité et de bienveillance à l'égard d'une personne ou d'une chose. [Wikipedia](https://fr.wikipedia.org/wiki/Intérêt)
 
-L'open source à gagné (["Open Source Won,So, Now What".Wired](https://www.wired.com/2016/08/open-source-won-now/)) mais n'est pas encore une sève du biométisme. Voilà un risque majeur porté sur l'innovation inspirée du Vivant qui lui ne pose aucun brevet sur ces ingénieries.
+L'open source à gagné (["Open Source Won,So, Now What".Wired](https://www.wired.com/2016/08/open-source-won-now/)) mais n'est pas encore une sève du biomimétisme. Voilà un risque majeur porté sur l'innovation inspirée du Vivant qui lui ne pose aucun brevet sur ces ingénieries.
 
 Ainsi, sans étaler ici de grandes théories sur la nocivité des silos et toxicité des systèmes propriètaires, sans faire laïus sur les avantages et les bienfaits de l'open source, je vous invite à un appel ouvert à co-organisation et co-gouvernance d'un moment fot du biomimétisme en septembre 2017 sur 4 jours. Faisons ensemble !
 
