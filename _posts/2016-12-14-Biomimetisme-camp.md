@@ -29,7 +29,7 @@ Si dans le biomimétisme en France, et plus largement en Europe, la question de 
 
 Si le constat que cette même pratique du biomimétisme n'a (pas encore) vu des équivalents à [Meredith Patterson](https://en.wikipedia.org/wiki/Meredith_L._Patterson), à [Aaron Swartz](https://fr.wikipedia.org/wiki/Aaron_Swartz), au [Critical Ingineering Manifesto](https://criticalengineering.org/fr), [Open Source Ecology](http://opensourceecology.org/), et d'autres, ce n'est pas encore une fatalité car nous avons l'opportunité de ne pas laisser le biomimétisme s'auto-intoxiquer. Nous pourrions travailler à un efficience post-consumériste par compréhension d'une "[systemic toxicity of commercial propaganda](http://maxlath.eu/articles/paper-ethical-marketing/)" et nous pourrions créer les conditions d'un paradigme nouveau cohérent avec le biomimétisme.
 
-# Appel à manifestation d'intrêts
+# Appel à manifestation d'intérêts
 
 > Le mot intérêt (du latin _interest_, « il importe ») a plusieurs acceptions : L'intérêt est un sentiment de curiosité et de bienveillance à l'égard d'une personne ou d'une chose. [Wikipedia](https://fr.wikipedia.org/wiki/Intérêt)
 
