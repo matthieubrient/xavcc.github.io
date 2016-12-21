@@ -42,7 +42,7 @@ Ainsi, sans étaler ici de grandes théories sur la nocivité des silos et toxic
 Biomimétisme, Bio design, Bio inspiration, Bio remédiation.. 
 En France et en Europe, à vous de jouer
 
- 1. Pour s'engager comme co-organisateur il faut POUVOIR présenter une preuve d'open source et/ou Open Knowledge dans ses pratiques. En étude ou en retraite, salariée ou enrtepreneure, chercheur ou autodidacte, individu ou organisation, c'est ouvert à tous mais on ne s'y investit pas n'importe comment.
+ 1. Pour s'engager comme co-organisateur il faut POUVOIR présenter une preuve d'open source et/ou Open Knowledge dans ses pratiques. En étude ou en retraite, salariée ou entrepreneure, chercheur ou autodidacte, individu ou organisation, c'est ouvert à tous mais on ne s'y investit pas n'importe comment.
  
  2. La prémière étape est l'appel à co-oragnisateurs jusqu'au 15 janvier 2017, individu ou organisations.
  
