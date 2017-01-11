@@ -21,7 +21,7 @@ Open source Bioware - Open Knowledge
 
 * BioHacktivist Commoner [@OpenBioFabrics](https://www.facebook.com/openbiofabrics), The innovation in fashion will be by bacteria: Biotextile SCOBY & the community .
 
-* Intervenant en écoles supérieures et universités, conférencier, explorateur. Je résouds parfois les problèmes des organisations et des entreprises, si et seulement si vous le voulez vraiment.
+* Intervenant en écoles supérieures et universités, conférencier, explorateur. Je résous parfois les problèmes des organisations et des entreprises, si et seulement si vous le voulez vraiment.
 
 * Contributeur [Multibao](http://www.multibao.org), Le carnet de bord des organisations novatrices sur les explorations collaboratives
 
