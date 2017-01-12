@@ -38,7 +38,9 @@ Autodidacte des internets et du numérique, Open source jardinier & Open knowled
 
 Ex-abnégateur en tenue d'urgence sur 10 ans de vie, encore au service des populations et de l’environnement mais dans une autre approche toujours humaniste. 
 
-Breton amoureux des océans et contemplateur de la biosphère
+Breton amoureux des océans et contemplateur de la biosphère.
 
+
+[Face B du Blog](https://xavcc.github.io/epistole/)
 
 ![](https://framapic.org/KCaAxT5561eD/0vuX3wzX6UiL)
