@@ -22,7 +22,7 @@ Je voudrais ici vous faire part d'une semaine de [Crypto party](https://blog.moz
 
 Oubliant un court instant les années d'éfforts et de galères des individus et des collectifs qui ont menés aujourd'hui à ce pré-printemps savoureux, je flâne le coeur léger et l'âme en poésie de la transition dans les rues pavées de Rennes. Je songe à la débétonnisation de la confluence de l'Ille et de la Vilaine, je rêve de tiers-leux permanents et éphémères à Rennes. Je vois une amie revenir de la collecte des rebus du marché de Lices pour remplir son frigo. Je relis Cioran...
 
-> "Dans tout homme sommeille un prophète, et quand il s'éveille il y a peu plus de mal dans le monde... La folie de prêcher est si ancrée en nous qu'elle émerge de pronfondeurs inconnuées à l'instinct de conservation. Chacun attend son moment pour proposer quelque chose : n'importe quoi.
+> "Dans tout homme sommeille un prophète, et quand il s'éveille il y a un peu plus de mal dans le monde... La folie de prêcher est si ancrée en nous qu'elle émerge de pronfondeurs inconnuées à l'instinct de conservation. Chacun attend son moment pour proposer quelque chose : n'importe quoi.
 Il y a une voix ; cela suffit. Nous payons cher de n'être ni sourds ni muets."
 
 Dire que _la ville des administrations_ s'horizontalise serait présomptueux. Observer et écrire que des ingénieux, des makers, des entreprenants, des commoners, s'investissent dans le dessin  et dessein d'un nouvel horizon pour la cité, par et pour les citoyens serait plus raisonnable et moins prophétique.
