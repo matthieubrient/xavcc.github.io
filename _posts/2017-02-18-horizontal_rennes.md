@@ -20,7 +20,7 @@ Je voudrais ici vous faire part d'une semaine de [Crypto party](https://blog.moz
 
 > [Anne Sauvageot dans The Conversation, janvier 2017.](http://theconversation.com/cosmos-artistes-et-scientifiques-a-la-conquete-de-linvisible-71247)
 
-Oubliant un court instant les années d'éfforts et de galères des individus et des collectifs qui ont menés aujourd'hui à ce pré-printemps savoureux, je flâne le coeur léger et l'âme en poésie de la transition dans les rues pavées de Rennes. Je songe à la débétonnisation de la confluence de l'Ille et de la Vilaine, je rêve de tiers-leux permanents et éphémères à Rennes. Je vois une amie revenir de la collecte des rebus du marché de Lices pour remplir son frigo. Je relis Cioran...
+Oubliant un court instant les années d'éfforts et de galères des individus et des collectifs qui ont menés aujourd'hui à ce pré-printemps savoureux, je flâne le coeur léger et l'âme en poésie de la transition dans les rues pavées de Rennes. Je songe à la débétonnisation de la confluence de l'Ille et de la Vilaine, je rêve de tiers-leux permanents et éphémères à Rennes. Je vois une amie revenir de la collecte des rebus du marché des Lices pour remplir son frigo. Je relis Cioran...
 
 > "Dans tout homme sommeille un prophète, et quand il s'éveille il y a un peu plus de mal dans le monde... La folie de prêcher est si ancrée en nous qu'elle émerge de pronfondeurs inconnuées à l'instinct de conservation. Chacun attend son moment pour proposer quelque chose : n'importe quoi.
 Il y a une voix ; cela suffit. Nous payons cher de n'être ni sourds ni muets."
