@@ -16,6 +16,7 @@ Open source Software - Open source Hardware
                - BIOMIMICRY -
 Open source Bioware - Open Knowledge
 ```
+* Pour les écoles et universités [lesvigies.fr](http://lesvigies.fr/)
 
 * Founder [@Le_biome](https://twitter.com/Le_biome), Biomimicry HackLab 
 
@@ -26,6 +27,8 @@ Open source Bioware - Open Knowledge
 * Contributeur [Multibao](http://www.multibao.org), Le carnet de bord des organisations novatrices sur les explorations collaboratives
 
 * Collaborateur [Digital Athanor](http://www.digital-athanor.com/), Le digital au service de l'humanisme.
+
+* Contributeur [movilab.org](http://movilab.org/index.php?title=Accueil), "Le patrimoine informationnel commun des Tiers Lieux Libres et Open Source" - TiLiOS
 
 ## Petits traits de caractères 
 
