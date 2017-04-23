@@ -114,7 +114,9 @@ En anglais, le terme consacré à la principale classe d’algorithme est « Ant
 ![Johann Dréo CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aco_branches.svg/500px-Aco_branches.svg.png)
 
 1) la première fourmi trouve la source de nourriture (F), via un chemin quelconque (a), puis revient au nid (N) en laissant derrière elle une piste de phéromone (b). 
+
 2) les fourmis empruntent indifféremment les 4 chemins possibles, mais le renforcement de la piste rend plus attractif le chemin le plus court. 
+
 3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évapore
 
 [Software Project Problème Planification](http://www.academia.edu/9152234/Software_Project_Planning_Using_Ant_Colony_Optimization_SPP-ACO_) (SPSP) est un problème de planification des tâches et des employés en satisfaisant une contrainte souple et difficile. Le nombre de techniques est conçu pour résoudre le problème SPSP. Il comprend Algorithme génétique (GA), Tabu Search (TS). Toutes ces techniques sont des techniques méta-heuristiques. La Novel Ant Colony Optimization (ACO) est une nouvelle technique méta-heuristique utilisée pour résoudre le problème SPSP. Pour résoudre les problèmes de SPSP, les informations heuristiques ainsi que la valeur de la phéromone sont utilisées. L'information heuristique est calculée en utilisant la solution précédente, l'importance, l'importance de la tâche et l'attribution des employés. Six stratégies différentes sont utilisées pour calculer l'information heuristique. Pour résoudre le problème SPSP, le graphique de construction est créé, le graphique de construction comprend tous les chemins possibles d'une tâche à l'autre. La valeur de la phéromone est basée sur la probabilité de chemins maximum  sélectionnée dans le graphique de construction
