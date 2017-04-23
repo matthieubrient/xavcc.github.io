@@ -2,7 +2,7 @@
 layout: post
 title: "Biomimétisme et logiciel: une possibilité à saisir"
 date: 2017-04-23
-categories: ["science"];["biomimicry"]
+categories: ["science"]
 ---
 
 ## Utiliser du biomimétisme dans l'ingénierie logicielle ? 
