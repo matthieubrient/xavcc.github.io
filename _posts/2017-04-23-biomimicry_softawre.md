@@ -103,6 +103,28 @@ _Pour en savoir plus lire le [billet blog Pensolve](http://pensolve.com/blog/201
 
 Vous trouverez de nombreuses ressources techniques, scientifiques, numériques et autres dans la [bibliothèque github](https://lebiome.github.io/#LeBiome/library) du Biome Hack Lab.
 
+**Les fourmis**
+
+Les algorithmes de colonies de fourmis sont inspirés du comportement des fourmis.
+
+Initialement proposé par [Marco Dorigo](https://fr.wikipedia.org/wiki/Marco_Dorigo) dans les années 1990, pour la recherche de chemins optimaux dans un graphe, le premier algorithme s’inspire du comportement des fourmis recherchant un chemin entre leur colonie et une source de nourriture. L’idée originale s'est depuis diversifiée pour résoudre une classe plus large de problèmes et plusieurs algorithmes ont vu le jour, s’inspirant de divers aspects du comportement des fourmis.
+
+En anglais, le terme consacré à la principale classe d’algorithme est « Ant Colony Optimisation » (ACO), souvent réservé à un type particulier d'algorithme. Il existe cependant plusieurs familles de méthodes s'inspirant du comportement des fourmis.
+
+![Johann Dréo CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aco_branches.svg/500px-Aco_branches.svg.png)
+
+1) la première fourmi trouve la source de nourriture (F), via un chemin quelconque (a), puis revient au nid (N) en laissant derrière elle une piste de phéromone (b). 
+2) les fourmis empruntent indifféremment les 4 chemins possibles, mais le renforcement de la piste rend plus attractif le chemin le plus court. 
+3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évapore
+
+[Software Project Problème Planification](http://www.academia.edu/9152234/Software_Project_Planning_Using_Ant_Colony_Optimization_SPP-ACO_) (SPSP) est un problème de planification des tâches et des employés en satisfaisant une contrainte souple et difficile. Le nombre de techniques est conçu pour résoudre le problème SPSP. Il comprend Algorithme génétique (GA), Tabu Search (TS). Toutes ces techniques sont des techniques méta-heuristiques. La Novel Ant Colony Optimization (ACO) est une nouvelle technique méta-heuristique utilisée pour résoudre le problème SPSP. Pour résoudre les problèmes de SPSP, les informations heuristiques ainsi que la valeur de la phéromone sont utilisées. L'information heuristique est calculée en utilisant la solution précédente, l'importance, l'importance de la tâche et l'attribution des employés. Six stratégies différentes sont utilisées pour calculer l'information heuristique. Pour résoudre le problème SPSP, le graphique de construction est créé, le graphique de construction comprend tous les chemins possibles d'une tâche à l'autre. La valeur de la phéromone est basée sur la probabilité de chemins maximum  sélectionnée dans le graphique de construction
+
+Voir aussi :
+* [Ant Algorithms for Discrete Optimization - Idsia](http://people.idsia.ch/~luca/ij_23-alife99.pdf)
+* [Ant Algorithm for Smart Water Network Partitioning](http://www.sciencedirect.com/science/article/pii/S1877705814000605)
+
+**A l'aube des émergences distribuées**
+
 Ma modeste conttibution, toujours en cours, sur [DAISEE.org](http://daisee.org/), Internets of Energy / Energy as a Commons (pas encore biosinpiré mais ça va venir), m'a appris mille choses mais j'en retiendrais une ici pour exemple :
 
 > S'inspirer de la nature pour développer des solutions technologiques, numériques, logiciels, nous pousse plus à nous confronter à la résilience de ses développements qu'a leur valeur marchande dans le contexte actuel basé sur l'obsolescence programméé
