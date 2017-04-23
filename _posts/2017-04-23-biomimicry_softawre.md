@@ -5,7 +5,7 @@ date: 2017-04-23
 categories: ["science"]
 ---
 
-## Utiliser du biomimétisme dans l'ingénierie logicielle ? 
+### Utiliser du biomimétisme dans l'ingénierie logicielle ? 
 
 «En adoptant les modèles de la nature, nous pourrions espérer travailler plus soutenablement et produire des produits plus durables.» Est-ce que cela pourrait être un moyen de changer le paradigme après lequel nous courrons ? Le développement de produits logiciels durables. Dans le développement de logiciels la métaphore du système a été adoptée comme une pratique de base par la communauté agile. Cent Beck, auteur de [Extreme Programming Explained]( https://fr.m.wikipedia.org/wiki/Extreme_programming) définit une métaphore du système comme suit : «une histoire que tout le monde - les clients, les programmeurs et les gestionnaires - peut expliquer comment le système fonctionne.» Un peu comme tout le monde peut tenter d'expliquer commen la nature fonctionne, avec son interprétation propre et une matrice d'analyse commune. Le travail de recherhce de Samuel Mann et Lesley Smith décrit les métaphores du système et examine ensuite les travaux dans ce domaine : [Biomimicry as a super system metaphor for software ingineering](https://www.researchgate.net/publication/228669301_Biomimicry_as_a_super_systems_metaphor_for_software_engineering)
 
