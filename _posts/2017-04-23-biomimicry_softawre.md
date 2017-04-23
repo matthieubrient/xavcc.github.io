@@ -103,7 +103,7 @@ _Pour en savoir plus lire le [billet blog Pensolve](http://pensolve.com/blog/201
 
 Vous trouverez de nombreuses ressources techniques, scientifiques, numériques et autres dans la [bibliothèque github](https://lebiome.github.io/#LeBiome/library) du Biome Hack Lab.
 
-Ma modeste conttibution, toujours en cours, sur [DAISEE.org](http://daisee.org/), Internets of Energy | Energy as a Commons (pas encore biosinpiré mais ça va venir), m'a appris mille choses mais j'en retiendrais une ici pour exemple :
+Ma modeste conttibution, toujours en cours, sur [DAISEE.org](http://daisee.org/), Internets of Energy / Energy as a Commons (pas encore biosinpiré mais ça va venir), m'a appris mille choses mais j'en retiendrais une ici pour exemple :
 
 > S'inspirer de la nature pour développer des solutions technologiques, numériques, logiciels, nous pousse plus à nous confronter à la résilience de ses développements qu'a leur valeur marchande dans le contexte actuel basé sur l'obsolescence programméé
 
