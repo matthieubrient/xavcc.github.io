@@ -2,7 +2,7 @@
 layout: post
 title: "Biomimétisme et logiciel: une possibilité à saisir"
 date: 2017-04-23
-categories: ["science"]
+categories: ["science","biomimicry"]
 ---
 
 «En adoptant les modèles de la nature, nous pourrions espérer travailler plus soutenablement et produire des produits plus durables.» Est-ce que cela pourrait être un moyen de changer le paradigme après lequel nous courrons ? Le développement de produits logiciels soutenables...
@@ -119,7 +119,7 @@ En anglais, le terme consacré à la principale classe d’algorithme est « Ant
 
 3) les fourmis empruntent le chemin le plus court, les portions longues des autres chemins voient la piste de phéromones s'évapore
 
-[Software Project Problème Planification](http://www.academia.edu/9152234/Software_Project_Planning_Using_Ant_Colony_Optimization_SPP-ACO_) (SPSP) est un problème de planification des tâches et des employés en satisfaisant une contrainte souple et difficile. Le nombre de techniques est conçu pour résoudre le problème SPSP. Il comprend Algorithme génétique (GA), Tabu Search (TS). Toutes ces techniques sont des techniques méta-heuristiques. La Novel Ant Colony Optimization (ACO) est une nouvelle technique méta-heuristique utilisée pour résoudre le problème SPSP. Pour résoudre les problèmes de SPSP, les informations heuristiques ainsi que la valeur de la phéromone sont utilisées. L'information heuristique est calculée en utilisant la solution précédente, l'importance, l'importance de la tâche et l'attribution des employés. Six stratégies différentes sont utilisées pour calculer l'information heuristique. Pour résoudre le problème SPSP, le graphique de construction est créé, le graphique de construction comprend tous les chemins possibles d'une tâche à l'autre. La valeur de la phéromone est basée sur la probabilité de chemins maximum  sélectionnée dans le graphique de construction
+[Software Project Problème Planification](http://www.academia.edu/9152234/Software_Project_Planning_Using_Ant_Colony_Optimization_SPP-ACO_) (SPSP) est un problème de planification des tâches et des employés en satisfaisant une contrainte souple et difficile. Le nombre de techniques est conçu pour résoudre le problème SPSP. Il comprend Algorithme génétique (GA), Tabu Search (TS). Toutes ces techniques sont des techniques méta-heuristiques. La Novel Ant Colony Optimization (ACO) est une nouvelle technique méta-heuristique utilisée pour résoudre le problème SPSP. Pour résoudre les problèmes de SPSP, les informations heuristiques ainsi que la valeur de la phéromone sont utilisées. L'information heuristique est calculée en utilisant la solution précédente, l'importance, l'importance de la tâche et l'attribution des employés. Six stratégies différentes sont utilisées pour calculer l'information heuristique. Pour résoudre le problème SPSP, le graphique de construction est créé, le graphique de construction comprend tous les chemins possibles d'une tâche à l'autre. La valeur de la phéromone est basée sur la probabilité de chemins maximum sélectionnée dans le graphique de construction
 
 Voir aussi :
 * [Ant Algorithms for Discrete Optimization - Idsia](http://people.idsia.ch/~luca/ij_23-alife99.pdf)
@@ -127,7 +127,7 @@ Voir aussi :
 
 **A l'aube des émergences distribuées**
 
-Ma modeste conttibution, toujours en cours, sur [DAISEE.org](http://daisee.org/), Internets of Energy / Energy as a Commons (pas encore biosinpiré mais ça va venir), m'a appris mille choses mais j'en retiendrais une ici pour exemple :
+Ma modeste conttibution, toujours en cours, sur [DAISEE.org](http://daisee.org/), Internets of Energy / Energy as a Commons (pas encore biosinpiré mais ça va venir voir [#DAISEE] [Knowledge Base (Feb 2017)](https://hackpad.com/DAISEE-Knowledge-Base-Feb-2017-KHgFcafILUc)), m'a appris mille choses mais j'en retiendrais une ici pour exemple :
 
 > S'inspirer de la nature pour développer des solutions technologiques, numériques, logiciels, nous pousse plus à nous confronter à la résilience de ses développements qu'a leur valeur marchande dans le contexte actuel basé sur l'obsolescence programméé
 
@@ -142,11 +142,11 @@ Pour cela nous avons besoin de :
 
 Utiliser du biomimétisme dans l'ingénierie logicielle ? Le chemin ressemble à cela mais il est encore long et plein de richesses.
 
-> " While  biomimicry  and  bio-inspiration  has  been 
-successful in  specific  areas  of  computing,  we  are  yet 
+> " While  biomimicry  and  bio-inspiration has been 
+successful in  specific  areas  of  computing, we are yet 
 to see a successful application at a paradigm level.  
 Instead, we have observed repeated use of terms such 
 as ecosystem without any benefit the metaphor might 
-have  otherwise  afforded.    This  approach  entirely 
-ignores  ecological  science;  it  does not  even  vaguely 
+have otherwise  afforded. This  approach  entirely 
+ignores  ecological  science; it  does not even vaguely 
 approach sustainability." Samuel Mann
