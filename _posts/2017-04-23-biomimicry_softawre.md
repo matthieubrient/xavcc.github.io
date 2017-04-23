@@ -52,7 +52,9 @@ see more :
 
 ## Architecture vivante visualisée comme un système cellulaire organique
 
-_Ce qui est suit est une traduction depuis le site web [variable.io](http://variable.io/ucc-organism/). Allez sur leur site web pour ptofiter de très beuax visuels d'illustration des propos_
+_Ce qui est suit est une traduction depuis le site web [variable.io](http://variable.io/ucc-organism/). Allez sur leur site web pour ptofiter de très beaux visuels d'illustration des propos_
+
+![image from http://variable.io/ucc-organism/](https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu)
 
 UCC Organism porpose des animations aguidées par les données qui représentent une école en tant qu'organisme vivant. Par @variable.io
 
@@ -62,7 +64,7 @@ Il se compose de plus de 30 écrans éparpillés dans toutes les parties du camp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1qYcq_mRyA8" frameborder="0" allowfullscreen></iframe>
 
-### 3 parties principales de la visualisation: l'architecture, les agents et l'énergie.
+#### 3 parties principales de la visualisation: l'architecture, les agents et l'énergie.
 
 **Logiciel**
 
