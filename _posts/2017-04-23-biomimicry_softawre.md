@@ -5,8 +5,6 @@ date: 2017-04-23
 categories: ["science"]
 ---
 
-### Utiliser du biomimétisme dans l'ingénierie logicielle ? 
-
 «En adoptant les modèles de la nature, nous pourrions espérer travailler plus soutenablement et produire des produits plus durables.» Est-ce que cela pourrait être un moyen de changer le paradigme après lequel nous courrons ? Le développement de produits logiciels soutenables...
 
 ### Utiliser du biomimétisme dans l'ingénierie logicielle ? 
