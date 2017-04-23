@@ -52,7 +52,7 @@ see more :
 
 _Ce qui est suit est une traduction depuis le site web [variable.io](http://variable.io/ucc-organism/). Allez sur leur site web pour ptofiter de très beaux visuels d'illustration des propos_
 
-![image from http://variable.io/ucc-organism/](https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu)
+![](https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu)_image from http://variable.io/ucc-organism/_
 
 UCC Organism porpose des animations aguidées par les données qui représentent une école en tant qu'organisme vivant. Par @variable.io
 
@@ -111,7 +111,7 @@ Initialement proposé par [Marco Dorigo](https://fr.wikipedia.org/wiki/Marco_Dor
 
 En anglais, le terme consacré à la principale classe d’algorithme est « Ant Colony Optimisation » (ACO), souvent réservé à un type particulier d'algorithme. Il existe cependant plusieurs familles de méthodes s'inspirant du comportement des fourmis.
 
-![Johann Dréo CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aco_branches.svg/500px-Aco_branches.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aco_branches.svg/500px-Aco_branches.svg.png)_Johann Dréo CC BY-SA 3.0, wikimedia_
 
 1) la première fourmi trouve la source de nourriture (F), via un chemin quelconque (a), puis revient au nid (N) en laissant derrière elle une piste de phéromone (b). 
 
