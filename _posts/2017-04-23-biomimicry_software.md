@@ -138,7 +138,10 @@ Pour cela nous avons besoin de :
 * Langages de programmation furgaux, robustes, interopérables,
 * Open Source à tous les niveaux [la nature pose des brevets sur ces innovations ?(^^)],
 * Oprtimiser les 3 flux de matière, énergie et information,
-* Ethique et d'Ecologie numérique,
+* Ethique et d'Ecologie numérique.
+
+![](https://framapic.org/Rehji0uc3oC3/vcE0q1LpYHmB)_Métaphore comparative entre [
+Programming language similarity](http://letstalkdata.com/2014/05/programming-language-similarity/) et [A 2016 (metagenomic) representation of the tree of life](https://en.wikipedia.org/wiki/Tree_of_life_(biology))_
 
 Utiliser du biomimétisme dans l'ingénierie logicielle ? Le chemin ressemble à cela mais il est encore long et plein de richesses.
 
