@@ -36,7 +36,7 @@ Certaines métaphores sont utilisées à plusieurs reprises dans le développeme
 4. Métaphore comptable (notation d'archive à double entrée)
 5. Panier Metaphor (e-commerce)
 6. Auction Metaphor (e-commerce)
-7. Métaphore du tableau noir (ai)
+7. Métaphore du tableau noir (IA)
 8. Processeur de documents (systèmes de bureau où le «modèle» est enregistré en tant que fichier)
 9. Métaphore de l'espace virtuel (ex. VR)
 10. Métaphore de bureau 5(desktop)
