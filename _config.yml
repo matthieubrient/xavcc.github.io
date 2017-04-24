@@ -13,7 +13,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xavcc.github.io" # the base hostname & protocol for your site
 twitter_username: XavierCoadic
 github_username:  XavCC
-mastodon_username: XavCC
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
