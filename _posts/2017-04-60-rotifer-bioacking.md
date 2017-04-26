@@ -28,16 +28,22 @@ _Unité de stockage de spores microbiennes: les rotifères peuvent être séché
 
 **Circuit 1: Revival & Reproduction**
 ![](https://i0.wp.com/biohackanddesign.files.wordpress.com/2013/04/5-circuit-i-revival-and-reproduction.jpg?w=618&h=941&crop&ssl=1)
+
 _Unité Bioreactor: Conçu pour le renouvellement et la reproduction des rotifères
 Unité d'alimentation: Conçu pour collecter la salive humaine qui fournit de la nourriture pour les rotifères qui se régalent de bactéries qui se trouvent à l'intérieur de notre bouche_ 
+
 **Feeding port**
+
 ![](https://i0.wp.com/biohackanddesign.files.wordpress.com/2013/04/6-feeding-port.jpg?w=514&h=941&crop&ssl=1)
+
 _Unité d'alimentation: Conçu pour collecter la salive humaine qui fournit de la nourriture pour les rotifères qui se régalent de bactéries qui se trouvent à l'intérieur de notre bouche_
+
 **Farm label**
 ![](https://biohackanddesign.files.wordpress.com/2013/04/3-farm-label_rs.jpg?w=1024&h=351)
+
 _Plan de la ferme: La ferme est divisée en différentes unités, chacune dédiée à la culture et à l'exploitation des rotifères selon leur panel de capacité_
 
-Si l'on regarde deplus près, nous faisons partie d'un terrain de jeu alternatif dominé par des communautés microbiennes prospères. Mes (Raphael Kim) intérêts portent sur la communication de notre énorme intérêt pour nous engager nous même avec le monde microbien, en mettant en évidence les niveaux possibles d'interactions et en créant une tangibilité depuis un monde qui est le plus souvent invisible.
+Si l'on regarde de plus près, nous faisons partie d'un terrain de jeu alternatif dominé par des communautés microbiennes prospères. Mes (Raphael Kim) intérêts portent sur la communication de notre énorme intérêt pour nous engager nous même avec le monde microbien, en mettant en évidence les niveaux possibles d'interactions et en créant une tangibilité depuis un monde qui est le plus souvent invisible.
 
 J'ai imaginé une ferme portative et domestique où les animaux de jardin communs microscopiques appelés rotifères pourraient être élevés et exploités avec notre contrôle - d'une manière similaire à la façon dont les fermes traditionnelles pour les animaux comme les vaches et les cochons sont exploitées - bien que sur une échelle différente.
 
