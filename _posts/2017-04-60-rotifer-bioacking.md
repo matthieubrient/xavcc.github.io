@@ -73,8 +73,8 @@ Les signaux fluorescents produits par les rotifères peuvent être quantifiés p
 
 <iframe src="https://player.vimeo.com/video/44354487" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-::: info
-**Featured**:
+
+> **Featured**:
 > - Final Graduate Show 2012, Royal College of Art, London, UK
 > - Press Review NOTCOT
 > - Radio Interview, Resonance FM
@@ -83,6 +83,10 @@ Les signaux fluorescents produits par les rotifères peuvent être quantifiés p
 > - Cynetart 2013, Festspielhaus, Dresden, Germany
 > - Forced Landing: Into the Unknown, Helsinki Design Week 2015
 
-**Special Thanks**:
+> **Special Thanks**:
 >Dr Sasha Mikheyev, Ecology and Evolution Unit, Okinawa Institute of Science and Technology, Japan
-:::
+
+NDLR : Un immense merci à Raphael Kim pour sa confiance accordée et son authorisation de traduction et réutilisation des ses contenus.
+
+Editor's Note: A huge thank you to Raphael for his trust and permission to translate and reuse these contents.
+
