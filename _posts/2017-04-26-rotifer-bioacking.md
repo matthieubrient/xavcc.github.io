@@ -10,7 +10,7 @@ Wikipedia :
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b3/Rotifer_animation.gif)
 
-> Ils vivent principalement en eau douce mais quelques espèces occupent les eaux salées ainsi que les milieux humides. Ils se nourrissent essentiellement de microorganismes en suspension dans l'eau16. Certains Rotifères sont des parasites de crustacés, de mollusques et d'annélides. Ils composent une grande partie du zooplancton d'eau douce et constituent une source de nourriture importante dans les écosystèmes d'eau douce. En milieu terrestre, ils interviennent dans la décomposition des matières organiques dans le sol. Ils sont utilisés dans des études écotoxicologiques
+> Ils vivent principalement en eau douce mais quelques espèces occupent les eaux salées ainsi que les milieux humides. Ils se nourrissent essentiellement de microorganismes en suspension dans l'eau. Certains Rotifères sont des parasites de crustacés, de mollusques et d'annélides. Ils composent une grande partie du zooplancton d'eau douce et constituent une source de nourriture importante dans les écosystèmes d'eau douce. En milieu terrestre, ils interviennent dans la décomposition des matières organiques dans le sol. Ils sont utilisés dans des études écotoxicologiques
 
 ## Rotifer Farm (2012)
 
