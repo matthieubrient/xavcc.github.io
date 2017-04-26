@@ -18,9 +18,9 @@ Open source Bioware - Open Knowledge
 ```
 * Pour les écoles et universités [lesvigies.fr](http://lesvigies.fr/)
 
-* Founder [@Le_biome](https://twitter.com/Le_biome), Biomimicry HackLab 
+* Founder [@Le_biome](https://lebiome.github.io/), Biomimicry HackLab 
 
-* BioHacktivist Commoner [@OpenBioFabrics](https://www.facebook.com/openbiofabrics), The innovation in fashion will be by bacteria: Biotextile SCOBY & the community .
+* BioHacktivist Commoner [@OpenBioFabrics](https://openbiofabrics.github.io/), The innovation in fashion will be by bacteria: Biotextile SCOBY & the community .
 
 * Intervenant en écoles supérieures et universités, conférencier, explorateur. Je résous parfois les problèmes des organisations et des entreprises, si et seulement si vous le voulez vraiment.
 
@@ -32,7 +32,7 @@ Open source Bioware - Open Knowledge
 
 ## Petits traits de caractères 
 
-[Large Human Collider](https://largehumancollider.github.io/) Maker
+Large Human Collider, Maker, transitioner, commoner et un peu plus encore
 
 > Natural born explorer autour des pratiques collaboratives et des humanités.
 
