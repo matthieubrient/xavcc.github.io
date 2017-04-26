@@ -57,7 +57,9 @@ Les brevets avaient créé des barrières autour des connaissances humaines, le 
 
 Il y existe des difficultés, à être soi même dans de bonnes conditions d’expression de volonté d’être pair, pour passer à l’action d’une collaboration sur un objectif commun. 
 Des frictions dans les rouages, provenant du soi et de l’environnement bruyant, ralentissent ou grippent le processus et peuvent le faire échouer, temporairement du moins avant nouvelle tentative.
-Pour tendre vers une exigence confortable, une membrane de confiance doit être tissée comme un fragile et perméable derme dans le système. Pierre-Alexandre Klein me parlait de la vulnérabilité qu’il doit être possible d’exprimer pour une personne afin d’engager ces processus pair à pair. Je trouve cette considération très importante dans les mécanismes de collaboration.
+Pour tendre vers une exigence confortable, une membrane de confiance doit être tissée comme un fragile et perméable derme dans le système. Pierre-Alexandre Klein me parlait de la vulnérabilité qu’il doit être possible d’exprimer pour une personne afin d’engager ces processus pair à pair. Je trouve cette considération très importante dans les mécanismes de collaboration. Cela rejoint le fait que le droit à l'erreur est inaliénable dans ces processus de collaboration pair à pair ansi que c'est dans la confrontant à sa propre zone d'ignorance que l'on apprend réellement. 
+
+> J'ai la responsabilité de dire que je ne sais pas, autrui à la responsabilité de l'accepter
 
 ## La sollicitation des affinités depuis le soi pour atteindre le nous
 
