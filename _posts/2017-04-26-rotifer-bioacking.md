@@ -1,4 +1,9 @@
-# Biohacking et ferme à Rotifères 
+---
+layout: post
+title: Biohacking et ferme à Rotifères 
+date: 2017-04-26
+categories: ["science"]
+---
 
 Wikipedia : 
 > Les Rotifères (Rotifera) constituent un embranchement du règne animal. Ce sont de petits organismes bilatériens mesurant entre 50 µm et 3 mm qui ont souvent une forme de trompette, cylindrique ou sphérique. 
