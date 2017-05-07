@@ -12,9 +12,9 @@ _Cet article qui suit est traduit avec l'aimable autorisation de [Ryan Shea](htt
 
 _These article bellow is available here with [[Ryan Shea](https://twitter.com/ryaneshea)'s authorisation, Co-founder of Blockstack. The [original text](https://hackernoon.com/complex-adaptive-systems-and-the-future-of-app-development-2bb0288f05e0) is credit of Raphael Kim. Translation and layout by Xavier Coadic_
 
-Une visualisation de l'arbre phylogénétique de la vie
+![](https://framapic.org/4Qkj8Jr8rrvO/R61cCqoMnYZV "Une visualisation de l'arbre phylogénétique de la vie")
 
-C'est une réponse aux systèmes décentralisés et auto-organisés par Fred Wilson.
+Ceci est une réponse à la publication "[systèmes décentralisés et auto-organisés](http://avc.com/2017/04/decentralized-self-organizing-systems/)" par Fred Wilson.
 
 Les systèmes d'adaptation complexes sont composés de nombreux agents indépendants en concurrence sur les ressources, où tous les agents ont des stratégies différentes, ont la capacité d'adaptation et sont soumis à des pressions naturellement sélectives. Ces systèmes sont évolutifs, auto-organisés et décentralisés. Plus la compétition est forte, plus le taux d'expérimentation et de naissance et de mort est élevé, plus la capacité de mutation et d'adaptation des agents individuels est grande, plus la résilience, l'anti-fragilité et l'impact de l'ensemble du système sont importants. Ce qui fonctionne bien se propage, ce qui ne fonctionne pas bien se dissout.
 
