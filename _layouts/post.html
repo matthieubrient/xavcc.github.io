@@ -24,7 +24,21 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+   
+<!--install commento from https://github.com/adtac/commento/blob/master/README.md-->   
   </div>
+     <body>
+        <script src="http://0.0.0.0:8080/assets/commento.min.js"></script>
+    </body>
+
+    <script>
+        Commento.init({
+            serverUrl: "http://0.0.0.0:8080"
+        })
+    </script>
+
+    <div id="commento">
+    </div>
 
   <footer class="postNavigation">
   {% if page.previous.url %}
