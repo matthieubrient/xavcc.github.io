@@ -1,4 +1,17 @@
-Applications logicielles en tant que systèmes adaptatifs complexes
+---
+layout: post
+title: Applications logicielles en tant que systèmes adaptatifs complexes
+date: 2017-05-08
+categories: ["science"]
+---
+
+> Pour faire suite à mes recherches sur l'apport du biomimétisme dans l'ingénierie logicielle : "[
+Biomimétisme et logiciel: une possibilité à saisir](https://xavcc.github.io/science/biomimicry/2017/04/23/biomimicry_software.html)"
+
+_Cet article qui suit est traduit avec l'aimable autorisation de [Ryan Shea](https://twitter.com/ryaneshea), Co-founder of Blockstack. Le [texte original](https://hackernoon.com/complex-adaptive-systems-and-the-future-of-app-development-2bb0288f05e0) est au crédit de Ryan Shea. Traduction et mise en page par Xavier Coadic_
+
+_These article bellow is available here with [[Ryan Shea](https://twitter.com/ryaneshea)'s authorisation, Co-founder of Blockstack. The [original text](https://hackernoon.com/complex-adaptive-systems-and-the-future-of-app-development-2bb0288f05e0) is credit of Raphael Kim. Translation and layout by Xavier Coadic_
+
 Une visualisation de l'arbre phylogénétique de la vie
 
 C'est une réponse aux systèmes décentralisés et auto-organisés par Fred Wilson.
