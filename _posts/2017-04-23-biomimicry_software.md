@@ -50,7 +50,7 @@ see more :
 
 ## Architecture vivante visualisée comme un système cellulaire organique
 
-_Ce qui est suit est une traduction depuis le site web [variable.io](http://variable.io/ucc-organism/). Allez sur leur site web pour ptofiter de très beaux visuels d'illustration des propos_
+_Ce qui est suit est une traduction depuis le site web [variable.io](http://variable.io/ucc-organism/). Allez sur leur site web pour profiter de très beaux visuels d'illustration des propos_
 
 ![](https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu)_image from http://variable.io/ucc-organism/_
 
@@ -127,7 +127,7 @@ Voir aussi :
 
 **A l'aube des émergences distribuées**
 
-Ma modeste conttibution, toujours en cours, sur [DAISEE.org](http://daisee.org/), Internets of Energy / Energy as a Commons (pas encore biosinpiré mais ça va venir voir [#DAISEE] [Knowledge Base (Feb 2017)](https://hackpad.com/DAISEE-Knowledge-Base-Feb-2017-KHgFcafILUc)), m'a appris mille choses mais j'en retiendrais une ici pour exemple :
+Ma modeste contribution, toujours en cours, sur [DAISEE.org](http://daisee.org/), Internets of Energy / Energy as a Commons (pas encore bioinspiré mais ça va venir voir [#DAISEE] [Knowledge Base (Feb 2017)](https://hackpad.com/DAISEE-Knowledge-Base-Feb-2017-KHgFcafILUc)), m'a appris mille choses mais j'en retiendrais une ici pour exemple :
 
 > S'inspirer de la nature pour développer des solutions technologiques, numériques, logiciels, nous pousse plus à nous confronter à la résilience de ses développements qu'a leur valeur marchande dans le contexte actuel basé sur l'obsolescence programméé
 
@@ -135,7 +135,7 @@ Pour cela nous avons besoin de :
 * Vocubalaire adpaté, ce que nous ne nommons pas ne peut pas exister, ce que nous nommons mal est aliéné,
 * TRANSdiscplinarité (voir ANTIdisciplinarité) dans les phases de conception,
 * Pratiques collaboratives des ces mêmes phases ansi que dans l'utilisation et l'amélioration continue,
-* Langages de programmation furgaux, robustes, interopérables,
+* Langages de programmation frugaux, robustes, interopérables,
 * Open Source à tous les niveaux [la nature pose des brevets sur ces innovations ?(^^)],
 * Oprtimiser les 3 flux de matière, énergie et information,
 * Ethique et d'Ecologie numérique.
